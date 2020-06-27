@@ -1839,6 +1839,11 @@ video {
   background-color: rgba(113, 128, 150, var(--bg-opacity));
 }
 
+.bg-gray-custom1 {
+  --bg-opacity: 1;
+  background-color: rgba(44, 44, 46, var(--bg-opacity));
+}
+
 .bg-gray-700 {
   --bg-opacity: 1;
   background-color: #4a5568;
